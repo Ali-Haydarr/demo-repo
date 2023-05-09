@@ -11,3 +11,4 @@ This is just a demo...
 git status
 git add . / git add index.html
 git commit -m "index.html added, readme.md updated" -m "index.html page added, some git commands added to readme.md"
+git push origin main
